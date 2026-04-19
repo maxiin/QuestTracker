@@ -1,4 +1,4 @@
-﻿using Dalamud.Game.Command;
+using Dalamud.Game.Command;
 using Dalamud.Plugin;
 using Dalamud.Plugin.Services;
 
@@ -36,7 +36,7 @@ namespace QuestTracker
             GameGui = gameGui;
             PluginLog = pluginLog;
 
-            //DataConverter dc = new DataConverter(pluginInterface, dataManager, pluginLog);
+            DataConverter dc = new DataConverter(pluginInterface, dataManager, pluginLog);
 
             Configuration = PluginInterface.GetPluginConfig() as Configuration ?? new Configuration();
             Configuration.Initialize(PluginInterface);
