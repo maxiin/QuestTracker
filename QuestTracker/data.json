@@ -1119,7 +1119,8 @@
                         {
                             "Title": "Ziz Is So Ridiculous",
                             "Id": [
-                                66321
+                                66321,
+                                69400
                             ],
                             "Area": "North Shroud",
                             "Level": 28
@@ -8408,6 +8409,78 @@
                             ],
                             "Area": "The Backroom",
                             "Level": 100
+                        },
+                        {
+                            "Title": "With the Winds",
+                            "Id": [
+                                70962
+                            ],
+                            "Area": "Solution Nine",
+                            "Level": 100
+                        },
+                        {
+                            "Title": "Through the Thunder",
+                            "Id": [
+                                70963
+                            ],
+                            "Area": "Tuliyollal",
+                            "Level": 100
+                        },
+                        {
+                            "Title": "Beyond the Mountains",
+                            "Id": [
+                                70964
+                            ],
+                            "Area": "Alexandria Crater",
+                            "Level": 100
+                        },
+                        {
+                            "Title": "Around the City",
+                            "Id": [
+                                70965
+                            ],
+                            "Area": "Treno",
+                            "Level": 100
+                        },
+                        {
+                            "Title": "To Work",
+                            "Id": [
+                                70966
+                            ],
+                            "Area": "Treno",
+                            "Level": 100
+                        },
+                        {
+                            "Title": "In Her Heart",
+                            "Id": [
+                                70967
+                            ],
+                            "Area": "Treno",
+                            "Level": 100
+                        },
+                        {
+                            "Title": "Toward Trouble",
+                            "Id": [
+                                70968
+                            ],
+                            "Area": "Treno",
+                            "Level": 100
+                        },
+                        {
+                            "Title": "Where We Call Home",
+                            "Id": [
+                                70969
+                            ],
+                            "Area": "Treno",
+                            "Level": 100
+                        },
+                        {
+                            "Title": "Into the Mist",
+                            "Id": [
+                                70970
+                            ],
+                            "Area": "Treno",
+                            "Level": 100
                         }
                     ]
                 }
@@ -8417,7 +8490,7 @@
             "Title": "Chronicles of a New Era",
             "Categories": [
                 {
-                    "Title": "Chronicles of a New Era - Primals",
+                    "Title": "Primals",
                     "Quests": [
                         {
                             "Title": "A Recurring Problem",
@@ -8542,7 +8615,7 @@
                     ]
                 },
                 {
-                    "Title": "Chronicles of a New Era - Bahamut",
+                    "Title": "Bahamut",
                     "Quests": [
                         {
                             "Title": "Primal Awakening",
@@ -8595,7 +8668,7 @@
                     ]
                 },
                 {
-                    "Title": "Chronicles of a New Era - The Crystal Tower",
+                    "Title": "The Crystal Tower",
                     "Quests": [
                         {
                             "Title": "Legacy of Allag",
@@ -8665,7 +8738,7 @@
                     ]
                 },
                 {
-                    "Title": "Chronicles of a New Era - Alexander",
+                    "Title": "Alexander",
                     "Quests": [
                         {
                             "Title": "Disarmed",
@@ -8790,7 +8863,7 @@
                     ]
                 },
                 {
-                    "Title": "Chronicles of a New Era - The Warring Triad",
+                    "Title": "The Warring Triad",
                     "Quests": [
                         {
                             "Title": "Gods of Eld",
@@ -8875,7 +8948,7 @@
                     ]
                 },
                 {
-                    "Title": "Chronicles of a New Era - The Shadow of Mhach",
+                    "Title": "The Shadow of Mhach",
                     "Quests": [
                         {
                             "Title": "Sky Pirates",
@@ -8936,7 +9009,7 @@
                     ]
                 },
                 {
-                    "Title": "Chronicles of a New Era - Omega",
+                    "Title": "Omega",
                     "Categories": [
                         {
                             "Title": "Omega Quests",
@@ -9087,7 +9160,7 @@
                     ]
                 },
                 {
-                    "Title": "Chronicles of a New Era - Return to Ivalice",
+                    "Title": "Return to Ivalice",
                     "Quests": [
                         {
                             "Title": "Dramatis Personae",
@@ -9172,7 +9245,7 @@
                     ]
                 },
                 {
-                    "Title": "Chronicles of a New Era - The Four Lords",
+                    "Title": "The Four Lords",
                     "Quests": [
                         {
                             "Title": "An Auspicious Encounter",
@@ -9217,7 +9290,7 @@
                     ]
                 },
                 {
-                    "Title": "Chronicles of a New Era - Eden",
+                    "Title": "Eden",
                     "Quests": [
                         {
                             "Title": "In the Middle of Nowhere",
@@ -9527,16 +9600,72 @@
                             ],
                             "Area": "Kholusia",
                             "Level": 80
+                        },
+                        {
+                            "Title": "A Message from Konogg",
+                            "Id": [
+                                69580
+                            ],
+                            "Area": "Kholusia",
+                            "Level": 1
+                        },
+                        {
+                            "Title": "Dwarves of a Beard",
+                            "Id": [
+                                69581
+                            ],
+                            "Area": "Kholusia",
+                            "Level": 1
+                        },
+                        {
+                            "Title": "Strange Glagg",
+                            "Id": [
+                                69582
+                            ],
+                            "Area": "Kholusia",
+                            "Level": 1
+                        },
+                        {
+                            "Title": "Dwarves of a Beard Freshened",
+                            "Id": [
+                                69583
+                            ],
+                            "Area": "Kholusia",
+                            "Level": 1
+                        },
+                        {
+                            "Title": "Stranger Glagg",
+                            "Id": [
+                                69584
+                            ],
+                            "Area": "Kholusia",
+                            "Level": 1
+                        },
+                        {
+                            "Title": "All's Well That Ends with Ale",
+                            "Id": [
+                                69585
+                            ],
+                            "Area": "Kholusia",
+                            "Level": 1
                         }
                     ]
                 },
                 {
-                    "Title": "Chronicles of a New Era - The Sorrow of Werlyt",
+                    "Title": "The Sorrow of Werlyt",
                     "Quests": [
                         {
                             "Title": "Ruby Doomsday",
                             "Id": [
                                 69319
+                            ],
+                            "Area": "The Lochs",
+                            "Level": 80
+                        },
+                        {
+                            "Title": "Weapon of Choice",
+                            "Id": [
+                                69378
                             ],
                             "Area": "The Lochs",
                             "Level": 80
@@ -9584,7 +9713,7 @@
                     ]
                 },
                 {
-                    "Title": "Chronicles of a New Era - Pandæmonium",
+                    "Title": "Pandæmonium",
                     "Categories": [
                         {
                             "Title": "Pandæmonium",
@@ -9735,7 +9864,7 @@
                     ]
                 },
                 {
-                    "Title": "Chronicles of a New Era - Myths of the Realm",
+                    "Title": "Myths of the Realm",
                     "Quests": [
                         {
                             "Title": "A Mission in Mor Dhona",
@@ -9820,7 +9949,7 @@
                     ]
                 },
                 {
-                    "Title": "Chronicles of a New Era - The Arcadion",
+                    "Title": "The Arcadion",
                     "Quests": [
                         {
                             "Title": "A New Challenger Appears",
@@ -9917,11 +10046,59 @@
                             ],
                             "Area": "Greenroom",
                             "Level": 100
+                        },
+                        {
+                            "Title": "Feral Fandom",
+                            "Id": [
+                                70971
+                            ],
+                            "Area": "Solution Nine",
+                            "Level": 100
+                        },
+                        {
+                            "Title": "The Breathtaker",
+                            "Id": [
+                                70972
+                            ],
+                            "Area": "Greenroom",
+                            "Level": 100
+                        },
+                        {
+                            "Title": "Daring Devils",
+                            "Id": [
+                                70973
+                            ],
+                            "Area": "Greenroom",
+                            "Level": 100
+                        },
+                        {
+                            "Title": "Challenger and Champion",
+                            "Id": [
+                                70974
+                            ],
+                            "Area": "Greenroom",
+                            "Level": 100
+                        },
+                        {
+                            "Title": "Iron Fist",
+                            "Id": [
+                                70975
+                            ],
+                            "Area": "Greenroom",
+                            "Level": 100
+                        },
+                        {
+                            "Title": "Glory Incarnate",
+                            "Id": [
+                                70976
+                            ],
+                            "Area": "Greenroom",
+                            "Level": 100
                         }
                     ]
                 },
                 {
-                    "Title": "Chronicles of a New Era - Echoes of Vana'diel",
+                    "Title": "Echoes of Vana'diel",
                     "Quests": [
                         {
                             "Title": "An Otherworldly Encounter",
@@ -10580,6 +10757,38 @@
                                     ],
                                     "Area": "Shrouded Laboratory",
                                     "Level": 100
+                                },
+                                {
+                                    "Title": "A Vandal in the Wild",
+                                    "Id": [
+                                        70914
+                                    ],
+                                    "Area": "Solution Nine",
+                                    "Level": 100
+                                },
+                                {
+                                    "Title": "On the Trail of Destruction",
+                                    "Id": [
+                                        70915
+                                    ],
+                                    "Area": "Shaaloani",
+                                    "Level": 100
+                                },
+                                {
+                                    "Title": "A Need for Speed",
+                                    "Id": [
+                                        70982
+                                    ],
+                                    "Area": "Solution Nine",
+                                    "Level": 100
+                                },
+                                {
+                                    "Title": "Meteorites and Meteor-wrongs",
+                                    "Id": [
+                                        70983
+                                    ],
+                                    "Area": "Solution Nine",
+                                    "Level": 100
                                 }
                             ]
                         }
@@ -10825,6 +11034,30 @@
                                     ],
                                     "Area": "Rhalgr's Reach",
                                     "Level": 70
+                                },
+                                {
+                                    "Title": "And We Shall Call It Pagos",
+                                    "Id": [
+                                        68478
+                                    ],
+                                    "Area": "Kugane",
+                                    "Level": 70
+                                },
+                                {
+                                    "Title": "And We Shall Call It Pyros",
+                                    "Id": [
+                                        68148
+                                    ],
+                                    "Area": "Kugane",
+                                    "Level": 70
+                                },
+                                {
+                                    "Title": "And We Shall Call It Hydatos",
+                                    "Id": [
+                                        68149
+                                    ],
+                                    "Area": "Kugane",
+                                    "Level": 70
                                 }
                             ]
                         },
@@ -10990,6 +11223,14 @@
                                     ],
                                     "Area": "Gangos",
                                     "Level": 80
+                                },
+                                {
+                                    "Title": "A Seaside Story",
+                                    "Id": [
+                                        69563
+                                    ],
+                                    "Area": "Gangos",
+                                    "Level": 1
                                 },
                                 {
                                     "Title": "One Man's Relic",
@@ -11168,6 +11409,54 @@
                                     "Title": "\uE0BF Forging the Phantasmal",
                                     "Id": [
                                         70856
+                                    ],
+                                    "Area": "Phantom Village",
+                                    "Level": 100
+                                },
+                                {
+                                    "Title": "Keeping the Old Ways Alive",
+                                    "Id": [
+                                        70916
+                                    ],
+                                    "Area": "Phantom Village",
+                                    "Level": 100
+                                },
+                                {
+                                    "Title": "Aether, Aether, Everywhere",
+                                    "Id": [
+                                        70917
+                                    ],
+                                    "Area": "Phantom Village",
+                                    "Level": 100
+                                },
+                                {
+                                    "Title": "\uE0BF Wrought by Hands Phantasmal",
+                                    "Id": [
+                                        70918
+                                    ],
+                                    "Area": "Phantom Village",
+                                    "Level": 100
+                                },
+                                {
+                                    "Title": "Timeworn Techniques",
+                                    "Id": [
+                                        70990
+                                    ],
+                                    "Area": "Phantom Village",
+                                    "Level": 100
+                                },
+                                {
+                                    "Title": "In Pursuit of Perfection",
+                                    "Id": [
+                                        70991
+                                    ],
+                                    "Area": "Phantom Village",
+                                    "Level": 100
+                                },
+                                {
+                                    "Title": " A Phantom Reborn",
+                                    "Id": [
+                                        70992
                                     ],
                                     "Area": "Phantom Village",
                                     "Level": 100
@@ -11672,6 +11961,14 @@
                                     "Level": 50
                                 },
                                 {
+                                    "Title": "What Lies Beneath",
+                                    "Id": [
+                                        67923
+                                    ],
+                                    "Area": "South Shroud",
+                                    "Level": 17
+                                },
+                                {
                                     "Title": "Dead but Not Gone",
                                     "Id": [
                                         67924
@@ -11834,6 +12131,43 @@
                                     ],
                                     "Area": "Thavnair",
                                     "Level": 90
+                                },
+                                {
+                                    "Title": "An Odd Job",
+                                    "Id": [
+                                        70187
+                                    ],
+                                    "Area": "Old Sharlayan",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "A Spellbinding Read",
+                                    "Id": [
+                                        70977
+                                    ],
+                                    "Area": "Old Sharlayan",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "Starting a New Chapter",
+                                    "Id": [
+                                        70978
+                                    ],
+                                    "Area": "Old Sharlayan",
+                                    "Level": 90
+                                }
+                            ]
+                        },
+                        {
+                            "Title": "Criterion Dungeons",
+                            "Quests": [
+                                {
+                                    "Title": "Abridged Too Far",
+                                    "Id": [
+                                        70995
+                                    ],
+                                    "Area": "Old Sharlayan",
+                                    "Level": 100
                                 }
                             ]
                         },
@@ -11846,6 +12180,78 @@
                                         70789
                                     ],
                                     "Area": "Old Sharlayan",
+                                    "Level": 10
+                                },
+                                {
+                                    "Title": "Passion, Thy Name Is Ardorum",
+                                    "Id": [
+                                        70790
+                                    ],
+                                    "Area": "Sinus Ardorum",
+                                    "Level": 10
+                                },
+                                {
+                                    "Title": "Go Forth, Brave Explorers",
+                                    "Id": [
+                                        70945
+                                    ],
+                                    "Area": "Sinus Ardorum",
+                                    "Level": 10
+                                },
+                                {
+                                    "Title": "The Brightest Star",
+                                    "Id": [
+                                        70946
+                                    ],
+                                    "Area": "Phaenna",
+                                    "Level": 10
+                                },
+                                {
+                                    "Title": "Mission of Gravity",
+                                    "Id": [
+                                        70984
+                                    ],
+                                    "Area": "Phaenna",
+                                    "Level": 10
+                                },
+                                {
+                                    "Title": "Memory's Orbit",
+                                    "Id": [
+                                        70985
+                                    ],
+                                    "Area": "Oizys",
+                                    "Level": 10
+                                },
+                                {
+                                    "Title": "A Manager's Prudence",
+                                    "Id": [
+                                        70986
+                                    ],
+                                    "Area": "Oizys",
+                                    "Level": 10
+                                },
+                                {
+                                    "Title": "An Interstellar Field Trip",
+                                    "Id": [
+                                        70989
+                                    ],
+                                    "Area": "Oizys",
+                                    "Level": 10
+                                },
+                                {
+                                    "Title": "Terror along the Tracks",
+                                    "Id": [
+                                        70987
+                                    ],
+                                    "Area": "Oizys",
+                                    "Level": 10
+                                },
+                                {
+                                    "Title": "A Manager's Power",
+                                    "Id": [
+                                        70988
+                                    ],
+                                    "Area": "Oizys",
                                     "Level": 10
                                 }
                             ]
@@ -11867,6 +12273,38 @@
                                         70860
                                     ],
                                     "Area": "Sinus Ardorum",
+                                    "Level": 10
+                                },
+                                {
+                                    "Title": "A Manager's Discernment",
+                                    "Id": [
+                                        70947
+                                    ],
+                                    "Area": "Phaenna",
+                                    "Level": 10
+                                },
+                                {
+                                    "Title": "Perspective Reflected",
+                                    "Id": [
+                                        70948
+                                    ],
+                                    "Area": "Phaenna",
+                                    "Level": 10
+                                },
+                                {
+                                    "Title": "Pilot Wanted",
+                                    "Id": [
+                                        70949
+                                    ],
+                                    "Area": "Phaenna",
+                                    "Level": 10
+                                },
+                                {
+                                    "Title": "A Manager's Delegation",
+                                    "Id": [
+                                        70950
+                                    ],
+                                    "Area": "Phaenna",
                                     "Level": 10
                                 }
                             ]
@@ -11953,6 +12391,43 @@
                                     ],
                                     "Area": "Phantom Village",
                                     "Level": 100
+                                }
+                            ]
+                        },
+                        {
+                            "Title": "Pilgrim's Traverse",
+                            "Quests": [
+                                {
+                                    "Title": "Pilgrimage of Light",
+                                    "Id": [
+                                        70941
+                                    ],
+                                    "Area": "The Crystarium",
+                                    "Level": 91
+                                },
+                                {
+                                    "Title": "Faerie Tale",
+                                    "Id": [
+                                        70942
+                                    ],
+                                    "Area": "Il Mheg",
+                                    "Level": 91
+                                },
+                                {
+                                    "Title": "A Branch and Their Sapling",
+                                    "Id": [
+                                        70943
+                                    ],
+                                    "Area": "Il Mheg",
+                                    "Level": 91
+                                },
+                                {
+                                    "Title": "The Pilgrim's Answer",
+                                    "Id": [
+                                        70944
+                                    ],
+                                    "Area": "Unknown",
+                                    "Level": 91
                                 }
                             ]
                         }
@@ -14776,12 +15251,44 @@
                                     "Level": 15
                                 },
                                 {
+                                    "Title": "Scratch It Rich",
+                                    "Id": [
+                                        66024
+                                    ],
+                                    "Area": "The Gold Saucer",
+                                    "Level": 15
+                                },
+                                {
                                     "Title": "Every Little Thing She Does Is Mahjong",
                                     "Id": [
                                         68737
                                     ],
                                     "Area": "The Gold Saucer",
                                     "Level": 15
+                                },
+                                {
+                                    "Title": "Hitting the Cactpot",
+                                    "Id": [
+                                        66025
+                                    ],
+                                    "Area": "The Gold Saucer",
+                                    "Level": 15
+                                },
+                                {
+                                    "Title": "Triple Triad Trial",
+                                    "Id": [
+                                        65973
+                                    ],
+                                    "Area": "The Gold Saucer",
+                                    "Level": 15
+                                },
+                                {
+                                    "Title": "Open and Inviting",
+                                    "Id": [
+                                        69566
+                                    ],
+                                    "Area": "The Gold Saucer",
+                                    "Level": 1
                                 },
                                 {
                                     "Title": "The Adventurer with All the Cards",
@@ -14973,7 +15480,8 @@
                                 {
                                     "Title": "If I Had a Glamour",
                                     "Id": [
-                                        68553
+                                        68553,
+                                        66957
                                     ],
                                     "Area": "Western Thanalan",
                                     "Level": 15
@@ -14981,7 +15489,8 @@
                                 {
                                     "Title": "Absolutely Glamourous",
                                     "Id": [
-                                        68554
+                                        68554,
+                                        66958
                                     ],
                                     "Area": "Western Thanalan",
                                     "Level": 15
@@ -15041,6 +15550,14 @@
                                     ],
                                     "Area": "Western Thanalan",
                                     "Level": 50
+                                },
+                                {
+                                    "Title": "Memories Rekindled",
+                                    "Id": [
+                                        69295
+                                    ],
+                                    "Area": "Western Thanalan",
+                                    "Level": 1
                                 }
                             ]
                         },
@@ -16639,6 +17156,14 @@
                                     ],
                                     "Area": "Mor Dhona",
                                     "Level": 70
+                                },
+                                {
+                                    "Title": "Recall of Duty",
+                                    "Id": [
+                                        68624
+                                    ],
+                                    "Area": "Mor Dhona",
+                                    "Level": 70
                                 }
                             ]
                         }
@@ -16650,6 +17175,14 @@
                         {
                             "Title": "Ishgard",
                             "Quests": [
+                                {
+                                    "Title": "Leves of Ishgard",
+                                    "Id": [
+                                        67642
+                                    ],
+                                    "Area": "Ishgard",
+                                    "Level": 50
+                                },
                                 {
                                     "Title": "Remembering Ishgard",
                                     "Id": [
@@ -17464,6 +17997,14 @@
                         {
                             "Title": "The Dravanian Forelands",
                             "Quests": [
+                                {
+                                    "Title": "Sights of the North",
+                                    "Id": [
+                                        67643
+                                    ],
+                                    "Area": "The Dravanian Forelands",
+                                    "Level": 52
+                                },
                                 {
                                     "Title": "Some Bad News",
                                     "Id": [
@@ -18680,6 +19221,22 @@
                         {
                             "Title": "Rhalgr's Reach",
                             "Quests": [
+                                {
+                                    "Title": "Sights of Crimson and Dawn",
+                                    "Id": [
+                                        68456
+                                    ],
+                                    "Area": "Rhalgr's Reach",
+                                    "Level": 60
+                                },
+                                {
+                                    "Title": "Reach Long and Prosper",
+                                    "Id": [
+                                        68477
+                                    ],
+                                    "Area": "Rhalgr's Reach",
+                                    "Level": 60
+                                },
                                 {
                                     "Title": "None Forgotten, None Forsaken",
                                     "Id": [
@@ -20695,6 +21252,14 @@
                             "Title": "Kugane",
                             "Quests": [
                                 {
+                                    "Title": "Leves of Kugane",
+                                    "Id": [
+                                        68457
+                                    ],
+                                    "Area": "Kugane",
+                                    "Level": 60
+                                },
+                                {
                                     "Title": "A Lone Wolf No More",
                                     "Id": [
                                         68736
@@ -20853,6 +21418,14 @@
                                     ],
                                     "Area": "Kugane",
                                     "Level": 70
+                                },
+                                {
+                                    "Title": "Songs in the Key of Kugane",
+                                    "Id": [
+                                        68479
+                                    ],
+                                    "Area": "Kugane",
+                                    "Level": 1
                                 }
                             ]
                         }
@@ -21102,6 +21675,14 @@
                             "Title": "The Crystarium",
                             "Quests": [
                                 {
+                                    "Title": "Leves of the Crystarium",
+                                    "Id": [
+                                        69138
+                                    ],
+                                    "Area": "The Crystarium",
+                                    "Level": 70
+                                },
+                                {
                                     "Title": "\uE0BE A Cry for Help",
                                     "Id": [
                                         68879
@@ -21260,6 +21841,30 @@
                                     ],
                                     "Area": "The Crystarium",
                                     "Level": 80
+                                },
+                                {
+                                    "Title": "Sights of the First",
+                                    "Id": [
+                                        69140
+                                    ],
+                                    "Area": "The Crystarium",
+                                    "Level": 70
+                                },
+                                {
+                                    "Title": "The Aspiring Skywatcher",
+                                    "Id": [
+                                        69141
+                                    ],
+                                    "Area": "The Crystarium",
+                                    "Level": 80
+                                },
+                                {
+                                    "Title": "Minstrel from Another Mother",
+                                    "Id": [
+                                        69198
+                                    ],
+                                    "Area": "The Crystarium",
+                                    "Level": 1
                                 }
                             ]
                         }
@@ -21339,6 +21944,14 @@
                                     "Title": "\uE0BE Of Legacies Lost and Reclaimed",
                                     "Id": [
                                         69060
+                                    ],
+                                    "Area": "Eulmore",
+                                    "Level": 70
+                                },
+                                {
+                                    "Title": "The Boutique Always Wins",
+                                    "Id": [
+                                        69139
                                     ],
                                     "Area": "Eulmore",
                                     "Level": 70
@@ -23586,6 +24199,30 @@
                                     ],
                                     "Area": "Old Sharlayan",
                                     "Level": 90
+                                },
+                                {
+                                    "Title": "Leves of Old Sharlayan",
+                                    "Id": [
+                                        69706
+                                    ],
+                                    "Area": "Old Sharlayan",
+                                    "Level": 80
+                                },
+                                {
+                                    "Title": "I Wandered Sharlayan as a Minstrel",
+                                    "Id": [
+                                        69707
+                                    ],
+                                    "Area": "Old Sharlayan",
+                                    "Level": 1
+                                },
+                                {
+                                    "Title": "Sights of the End",
+                                    "Id": [
+                                        69710
+                                    ],
+                                    "Area": "Old Sharlayan",
+                                    "Level": 80
                                 }
                             ]
                         }
@@ -23660,6 +24297,14 @@
                                     ],
                                     "Area": "Radz-at-Han",
                                     "Level": 90
+                                },
+                                {
+                                    "Title": "Expanding House of Splendors",
+                                    "Id": [
+                                        69711
+                                    ],
+                                    "Area": "Radz-at-Han",
+                                    "Level": 80
                                 }
                             ]
                         },
@@ -25384,6 +26029,30 @@
                                     ],
                                     "Area": "Tuliyollal",
                                     "Level": 90
+                                },
+                                {
+                                    "Title": "Leves of Tuliyollal",
+                                    "Id": [
+                                        70539
+                                    ],
+                                    "Area": "Tuliyollal",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "How the West Was Sung",
+                                    "Id": [
+                                        70540
+                                    ],
+                                    "Area": "Tuliyollal",
+                                    "Level": 1
+                                },
+                                {
+                                    "Title": "Sights of the West",
+                                    "Id": [
+                                        70542
+                                    ],
+                                    "Area": "Tuliyollal",
+                                    "Level": 90
                                 }
                             ]
                         },
@@ -26358,6 +27027,22 @@
                                     ],
                                     "Area": "Solution Nine",
                                     "Level": 100
+                                },
+                                {
+                                    "Title": "Sights of the West and Beyond",
+                                    "Id": [
+                                        70543
+                                    ],
+                                    "Area": "Solution Nine",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "Dawn of a New Deal",
+                                    "Id": [
+                                        70544
+                                    ],
+                                    "Area": "Solution Nine",
+                                    "Level": 90
                                 }
                             ]
                         }
@@ -31954,7 +32639,8 @@
                                 {
                                     "Title": "\uE0BE The Pride of Mamook",
                                     "Id": [
-                                        70795
+                                        70795,
+                                        70796
                                     ],
                                     "Area": "Yak T'el",
                                     "Level": 90
@@ -32186,6 +32872,294 @@
                                         70824
                                     ],
                                     "Area": "Yak T'el",
+                                    "Level": 90
+                                }
+                            ]
+                        }
+                    ],
+                    "Quests": []
+                },
+                {
+                    "Title": "Yok Huy Quests",
+                    "Categories": [
+                        {
+                            "Title": "Main Quests",
+                            "Quests": [
+                                {
+                                    "Title": "\uE0BE Frosty Neighbors",
+                                    "Id": [
+                                        70866
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Still as Stone",
+                                    "Id": [
+                                        70867
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Buried Memories",
+                                    "Id": [
+                                        70868
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE The Pact",
+                                    "Id": [
+                                        70869
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Forged in Corn",
+                                    "Id": [
+                                        70870
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE With High Spirits",
+                                    "Id": [
+                                        70871
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                }
+                            ]
+                        },
+                        {
+                            "Title": "Daily Quests",
+                            "Quests": [
+                                {
+                                    "Title": "\uE0BE Snow on the Mountain",
+                                    "Id": [
+                                        70872
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE A Work of Cart",
+                                    "Id": [
+                                        70873
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Will Work for Supplies",
+                                    "Id": [
+                                        70874
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Getting a Glow On",
+                                    "Id": [
+                                        70875
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Hold My Hand Warmers",
+                                    "Id": [
+                                        70876
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE For a Goods Cause",
+                                    "Id": [
+                                        70877
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Happiness Is a Warm Poncho",
+                                    "Id": [
+                                        70878
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Worth Their Salt",
+                                    "Id": [
+                                        70879
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Tradition for Trade",
+                                    "Id": [
+                                        70880
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE A Few Tools Short of a Toolbox",
+                                    "Id": [
+                                        70881
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Romanced by the Stone",
+                                    "Id": [
+                                        70882
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Every Last Pebble",
+                                    "Id": [
+                                        70883
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Trail Fix",
+                                    "Id": [
+                                        70884
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Working Stew Hard",
+                                    "Id": [
+                                        70885
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Snack in Hand",
+                                    "Id": [
+                                        70886
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Seasoned Stories",
+                                    "Id": [
+                                        70887
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Larder for the Long Term",
+                                    "Id": [
+                                        70888
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Table for Too Few",
+                                    "Id": [
+                                        70889
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE I Want to Trade My Icicle",
+                                    "Id": [
+                                        70890
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Larder Logistics",
+                                    "Id": [
+                                        70891
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE The Weight of Generosity",
+                                    "Id": [
+                                        70892
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE A Growing Field",
+                                    "Id": [
+                                        70893
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE The Crystals' Favor",
+                                    "Id": [
+                                        70894
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Big Mountain, Little Climbers",
+                                    "Id": [
+                                        70895
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Scouring for Flowers",
+                                    "Id": [
+                                        70896
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE A Rock-solid Repair Job",
+                                    "Id": [
+                                        70897
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Mad about Brew",
+                                    "Id": [
+                                        70898
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE A Feast of Indecision",
+                                    "Id": [
+                                        70899
+                                    ],
+                                    "Area": "Urqopacha",
                                     "Level": 90
                                 }
                             ]
@@ -36503,6 +37477,14 @@
                                     ],
                                     "Area": "South Shroud",
                                     "Level": 80
+                                },
+                                {
+                                    "Title": "Plucking the Heartstrings",
+                                    "Id": [
+                                        68555
+                                    ],
+                                    "Area": "Old Gridania",
+                                    "Level": 30
                                 }
                             ]
                         },
@@ -36691,6 +37673,14 @@
                             "Title": "Dark Knight Quests",
                             "Quests": [
                                 {
+                                    "Title": "A Dark Spectacle",
+                                    "Id": [
+                                        67646
+                                    ],
+                                    "Area": "The Pillars",
+                                    "Level": 50
+                                },
+                                {
                                     "Title": "Our End",
                                     "Id": [
                                         67589
@@ -36839,6 +37829,14 @@
                         {
                             "Title": "Machinist Quests",
                             "Quests": [
+                                {
+                                    "Title": "So You Want to Be a Machinist",
+                                    "Id": [
+                                        67645
+                                    ],
+                                    "Area": "Foundation",
+                                    "Level": 50
+                                },
                                 {
                                     "Title": "Savior of Skysteel",
                                     "Id": [
@@ -37999,6 +38997,14 @@
                         {
                             "Title": "Astrologian Quests",
                             "Quests": [
+                                {
+                                    "Title": "What's Your Sign",
+                                    "Id": [
+                                        67659
+                                    ],
+                                    "Area": "The Pillars",
+                                    "Level": 50
+                                },
                                 {
                                     "Title": "Stairway to the Heavens",
                                     "Id": [
@@ -39792,6 +40798,22 @@
                                     ],
                                     "Area": "Limsa Lominsa",
                                     "Level": 15
+                                },
+                                {
+                                    "Title": "Seize the Neigh",
+                                    "Id": [
+                                        70765
+                                    ],
+                                    "Area": "Limsa Lominsa Upper Decks",
+                                    "Level": 15
+                                },
+                                {
+                                    "Title": "Majesty in Motion",
+                                    "Id": [
+                                        70766
+                                    ],
+                                    "Area": "Limsa Lominsa Upper Decks",
+                                    "Level": 15
                                 }
                             ]
                         },
@@ -40061,6 +41083,14 @@
                                     ],
                                     "Area": "Gridania",
                                     "Level": 15
+                                },
+                                {
+                                    "Title": "The Icing on the Cake",
+                                    "Id": [
+                                        70861
+                                    ],
+                                    "Area": "Old Gridania",
+                                    "Level": 15
                                 }
                             ]
                         },
@@ -40081,6 +41111,22 @@
                                         69533
                                     ],
                                     "Area": "East Shroud",
+                                    "Level": 15
+                                },
+                                {
+                                    "Title": "What Can Eye Do for You",
+                                    "Id": [
+                                        70980
+                                    ],
+                                    "Area": "Ul'dah - Steps of Nald",
+                                    "Level": 15
+                                },
+                                {
+                                    "Title": "Backstage Chats",
+                                    "Id": [
+                                        70981
+                                    ],
+                                    "Area": "Ul'dah - Steps of Nald",
                                     "Level": 15
                                 }
                             ]
@@ -40339,6 +41385,14 @@
                                         70347
                                     ],
                                     "Area": "Central Shroud",
+                                    "Level": 15
+                                },
+                                {
+                                    "Title": "Of Weeds and Whimsy",
+                                    "Id": [
+                                        70961
+                                    ],
+                                    "Area": "Old Gridania",
                                     "Level": 15
                                 }
                             ]
@@ -41075,6 +42129,14 @@
                                     ],
                                     "Area": "Eastern La Noscea",
                                     "Level": 30
+                                },
+                                {
+                                    "Title": "Dressed to Protect",
+                                    "Id": [
+                                        70857
+                                    ],
+                                    "Area": "Limsa Lominsa Upper Decks",
+                                    "Level": 30
                                 }
                             ]
                         },
@@ -41215,6 +42277,22 @@
                                         70552
                                     ],
                                     "Area": "Limsa Lominsa",
+                                    "Level": 15
+                                },
+                                {
+                                    "Title": "An Adventurous Ambition",
+                                    "Id": [
+                                        70833
+                                    ],
+                                    "Area": "Limsa Lominsa Upper Decks",
+                                    "Level": 15
+                                },
+                                {
+                                    "Title": "A Light That Ever Burns",
+                                    "Id": [
+                                        70834
+                                    ],
+                                    "Area": "Lower La Noscea",
                                     "Level": 15
                                 }
                             ]
@@ -41549,6 +42627,22 @@
                                     ],
                                     "Area": "Gridania",
                                     "Level": 15
+                                },
+                                {
+                                    "Title": "Frights of Fancy",
+                                    "Id": [
+                                        70911
+                                    ],
+                                    "Area": "Old Gridania",
+                                    "Level": 15
+                                },
+                                {
+                                    "Title": "Dressed to Impresario",
+                                    "Id": [
+                                        70912
+                                    ],
+                                    "Area": "Old Gridania",
+                                    "Level": 15
                                 }
                             ]
                         },
@@ -41858,6 +42952,14 @@
                                     ],
                                     "Area": "Gridania",
                                     "Level": 15
+                                },
+                                {
+                                    "Title": "We Three Kinderpunsch",
+                                    "Id": [
+                                        70767
+                                    ],
+                                    "Area": "Old Gridania",
+                                    "Level": 15
                                 }
                             ]
                         }
@@ -41993,6 +43095,38 @@
                                     ],
                                     "Area": "The Gold Saucer",
                                     "Level": 15
+                                },
+                                {
+                                    "Title": "The White Wanderer",
+                                    "Id": [
+                                        70910
+                                    ],
+                                    "Area": "Tuliyollal",
+                                    "Level": 100
+                                },
+                                {
+                                    "Title": "A Land on Fire",
+                                    "Id": [
+                                        70332
+                                    ],
+                                    "Area": "Ul'dah - Steps of Nald",
+                                    "Level": 50
+                                },
+                                {
+                                    "Title": "Pain to Recall",
+                                    "Id": [
+                                        70333
+                                    ],
+                                    "Area": "Ul'dah - Steps of Thal",
+                                    "Level": 50
+                                },
+                                {
+                                    "Title": "The Path Infernal",
+                                    "Id": [
+                                        70334
+                                    ],
+                                    "Area": "Old Gridania",
+                                    "Level": 50
                                 }
                             ]
                         }
