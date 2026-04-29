@@ -5,7 +5,7 @@ namespace QuestTracker;
 
 public class QuestData
 {
-    public string Title { get; set; }
+    public string Title { get; set; } = string.Empty;
     public List<QuestData> Categories { get; set; } = new();
     public List<Quest> Quests { get; set; } = new();
     public float NumComplete { get; set; }
@@ -16,11 +16,11 @@ public class QuestData
 [Serializable]
 public class Quest
 {
-    public string Title { get; set; }
-    public List<uint> Id { get; set; }
-    public string Area { get; set; } = "";    
-    public string Start { get; set; }
-    public string Gc { get; set; }
+    public string Title { get; set; } = string.Empty;
+    public List<uint> Id { get; set; } = new();
+    public string Area { get; set; } = string.Empty;    
+    public string Start { get; set; } = string.Empty;
+    public string Gc { get; set; } = string.Empty;
     public int Level { get; set; }
     public bool Hide { get; set; }
 }

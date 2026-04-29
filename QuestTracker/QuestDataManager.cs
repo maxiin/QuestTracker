@@ -32,9 +32,11 @@ namespace QuestTracker
             {
                 pluginLog.Debug("Loading QuestData from data.json");
                 using var stream = Assembly.GetExecutingAssembly().GetManifestResourceStream("QuestTracker.data.json");
+                if(stream == null) throw new FileNotFoundException("data.json not found in embedded resources.");
                 using var stringStream = new StreamReader(stream);
                 var jsonString = stringStream.ReadToEnd();
-                plugin.QuestData = JsonConvert.DeserializeObject<QuestData>(jsonString);
+                if(string.IsNullOrEmpty(jsonString)) throw new Exception("data.json is empty.");
+                plugin.QuestData = JsonConvert.DeserializeObject<QuestData>(jsonString) ?? throw new Exception("Failed to deserialize data.json");
 
                 pluginLog.Debug("Load successful");
             }

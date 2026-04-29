@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "Title": "You Otter Be There",
+    "Id": [
+      70979
+    ],
+    "Area": "Ul'dah - Steps of Nald",
+    "Level": 15
+  },
+  {
+    "Title": "Earning Your Water Wings",
+    "Id": [
+      70993
+    ],
+    "Area": "Limsa Lominsa Upper Decks",
+    "Level": 30
+  },
+  {
+    "Title": "Whoever Floats Your Raft",
+    "Id": [
+      70994
+    ],
+    "Area": "Eastern La Noscea",
+    "Level": 30
+  },
+  {
+    "Title": "星芒祭と友だちのためのソリ",
+    "Id": [
+      71000
+    ],
+    "Area": "Old Gridania",
+    "Level": 15
+  },
+  {
+    "Title": "星芒祭と子どものためのベル",
+    "Id": [
+      71001
+    ],
+    "Area": "Starlight Stalls",
+    "Level": 15
+  },
+  {
+    "Title": "守護天節と面妖な着ぐるみたち",
+    "Id": [
+      71003
+    ],
+    "Area": "Old Gridania",
+    "Level": 15
+  },
+  {
+    "Title": "守護天節と面妖なかくれんぼ",
+    "Id": [
+      71004
+    ],
+    "Area": "Old Gridania",
+    "Level": 15
+  },
+  {
+    "Title": "The Wing Spirit Cometh",
+    "Id": [
+      71005
+    ],
+    "Area": "Tuliyollal",
+    "Level": 1
+  },
+  {
+    "Title": "In Fate's Footsteps",
+    "Id": [
+      71006
+    ],
+    "Area": "Solution Nine",
+    "Level": 100
+  },
+  {
+    "Title": "Two Worlds Entwined",
+    "Id": [
+      71007
+    ],
+    "Area": "Main Hall",
+    "Level": 100
+  },
+  {
+    "Title": "A Grave Presentiment",
+    "Id": [
+      71008
+    ],
+    "Area": "Garlemald",
+    "Level": 100
+  },
+  {
+    "Title": "A Beacon from Beyond",
+    "Id": [
+      71009
+    ],
+    "Area": "The Red Moon",
+    "Level": 100
+  },
+  {
+    "Title": "Trail to the Heavens",
+    "Id": [
+      71010
+    ],
+    "Area": "Mare Lamentorum",
+    "Level": 100
+  },
+  {
+    "Title": "The Hollow Promise",
+    "Id": [
+      71015
+    ],
+    "Area": "Tuliyollal",
+    "Level": 100
+  },
+  {
+    "Title": "Distant Promises",
+    "Id": [
+      71016
+    ],
+    "Area": "Lower Jeuno",
+    "Level": 100
+  }
+]

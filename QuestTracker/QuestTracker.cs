@@ -12,11 +12,11 @@ namespace QuestTracker
         
         private const string CommandNameAlt = "/quest";
 
-        public static IDalamudPluginInterface PluginInterface { get; private set; }
-        public static ICommandManager CommandManager { get; private set; }
-        public static IDataManager DataManager { get; private set; }
-        public static IGameGui GameGui { get; private set; }
-        public static IPluginLog PluginLog { get; private set; }
+        internal static IDalamudPluginInterface PluginInterface { get; private set; } = null!;
+        internal static ICommandManager CommandManager { get; private set; } = null!;
+        internal static IDataManager DataManager { get; private set; } = null!;
+        internal static IGameGui GameGui { get; private set; } = null!;
+        internal static IPluginLog PluginLog { get; private set; } = null!;
         private Configuration Configuration { get; init; }
         private QuestDataManager QuestDataManager { get; init; }
         private MainWindow MainWindow { get; init; }
@@ -37,7 +37,7 @@ namespace QuestTracker
             PluginLog = pluginLog;
 
             // Uncomment the following line to get new quest data from Lumina and export to data.json.
-            //DataConverter dc = new DataConverter(pluginInterface, dataManager, pluginLog);
+            DataConverter dc = new DataConverter(pluginInterface, dataManager, pluginLog);
 
             Configuration = PluginInterface.GetPluginConfig() as Configuration ?? new Configuration();
             Configuration.Initialize(PluginInterface);

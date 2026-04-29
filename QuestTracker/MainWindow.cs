@@ -165,7 +165,7 @@ namespace QuestTracker
                 float comboWidth = 400;
 
                 ImGui.SetNextItemWidth(comboWidth);
-                if (ImGui.BeginCombo("##category_dropdown", GetDisplayText(configuration.CategorySelection)))
+                if (ImGui.BeginCombo("##category_dropdown", GetDisplayText(configuration.CategorySelection!)))
                 {
                     foreach (var category in plugin.QuestData.Categories)
                     {
@@ -192,9 +192,9 @@ namespace QuestTracker
 
                 ImGui.Spacing();
                 ImGui.SetNextItemWidth(comboWidth);
-                if (ImGui.BeginCombo("##subcategory_dropdown", GetDisplayText(configuration.SubcategorySelection)))
+                if (ImGui.BeginCombo("##subcategory_dropdown", GetDisplayText(configuration.SubcategorySelection!)))
                 {
-                    foreach (var category in configuration.CategorySelection.Categories)
+                    foreach (var category in configuration.CategorySelection!.Categories)
                     {
                         if (!category.Hide)
                         {
@@ -210,7 +210,7 @@ namespace QuestTracker
                 }
 
                 ImGui.Spacing();
-                if (configuration.SubcategorySelection.Categories.Count > 0)
+                if (configuration.SubcategorySelection!.Categories.Count > 0)
                 {
                     foreach (var subcategory in configuration.SubcategorySelection.Categories)
                     {
@@ -459,12 +459,12 @@ namespace QuestTracker
             if (configuration.CategorySelection == null || configuration.CategorySelection.Hide)
             {
                 configuration.CategorySelection = plugin.QuestData.Categories.Find(c => !c.Hide);
-                configuration.SubcategorySelection = configuration.CategorySelection.Categories.Find(c => !c.Hide);
+                configuration.SubcategorySelection = configuration.CategorySelection?.Categories.Find(c => !c.Hide);
             }
 
             if (configuration.SubcategorySelection == null || configuration.SubcategorySelection.Hide)
             {
-                configuration.SubcategorySelection = configuration.CategorySelection.Categories.Find(c => !c.Hide);
+                configuration.SubcategorySelection = configuration.CategorySelection?.Categories.Find(c => !c.Hide);
             }
 
             configuration.Save();
@@ -481,7 +481,7 @@ namespace QuestTracker
         private static void OpenAreaMap(Quest quest)
         {
             var questEnumerable = Plugin.DataManager.GetExcelSheet<Lumina.Excel.Sheets.Quest>()
-                                        .Where(q => quest.Id.Contains(q.RowId) && q.IssuerLocation.Value.RowId != null);
+                                        .Where(q => quest.Id.Contains(q.RowId) && q.IssuerLocation.ValueNullable?.RowId != null);
             Level level = questEnumerable.First().IssuerLocation.Value;
             var mapLink = new MapLinkPayload(level.Territory.RowId,
                                              level.Map.RowId,

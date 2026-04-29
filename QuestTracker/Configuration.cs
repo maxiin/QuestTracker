@@ -15,15 +15,20 @@ namespace QuestTracker
         public string StartArea { get; set; } = "";
         public string GrandCompany { get; set; } = "";
         public uint StartClass { get; set; }
-        public QuestData CategorySelection { get; set; }
-        public QuestData SubcategorySelection { get; set; }
+        public QuestData? CategorySelection { get; set; }
+        public QuestData? SubcategorySelection { get; set; }
 
         [NonSerialized]
-        private IDalamudPluginInterface pluginInterface;
+        private IDalamudPluginInterface? pluginInterface;
 
         public void Initialize(IDalamudPluginInterface pluginInterface) => this.pluginInterface = pluginInterface;
 
-        public void Save() => this.pluginInterface.SavePluginConfig(this);
+        public void Save()
+        {
+            if (this.pluginInterface is null)
+                throw new InvalidOperationException("Plugin interface not initialized. Call Initialize before Save.");
+            this.pluginInterface.SavePluginConfig(this);
+        }
 
         public void Reset()
         {
