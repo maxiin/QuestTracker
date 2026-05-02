@@ -37,7 +37,7 @@ namespace QuestTracker
             PluginLog = pluginLog;
 
             // Uncomment the following line to get new quest data from Lumina and export to data.json.
-            DataConverter dc = new DataConverter(pluginInterface, dataManager, pluginLog);
+            //DataConverter dc = new DataConverter(pluginInterface, dataManager, pluginLog);
 
             Configuration = PluginInterface.GetPluginConfig() as Configuration ?? new Configuration();
             Configuration.Initialize(PluginInterface);
