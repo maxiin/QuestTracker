@@ -118,24 +118,15 @@ namespace QuestTracker
                 {
                     if (category == plugin.QuestData.Categories.Last() && configuration.ExcludeOtherQuests)
                     {
-                        ImGui.TableNextColumn();
-                        ImGui.TextDisabled(category.Title);
-                        ImGui.TableNextColumn();
-                        ImGui.TextDisabled($"{category.NumComplete}/{category.Total}");
-                        ImGui.TableNextColumn();
-                        ImGui.TextDisabled($"{category.NumComplete / category.Total:P2}%");
-                        ImGui.TableNextRow();
+                        continue;
                     }
-                    else
-                    {
-                        ImGui.TableNextColumn();
-                        ImGui.Text(category.Title);
-                        ImGui.TableNextColumn();
-                        ImGui.Text($"{category.NumComplete}/{category.Total}");
-                        ImGui.TableNextColumn();
-                        ImGui.Text($"{category.NumComplete / category.Total:P2}%");
-                        ImGui.TableNextRow();
-                    }
+                    ImGui.TableNextColumn();
+                    ImGui.Text(category.Title);
+                    ImGui.TableNextColumn();
+                    ImGui.Text($"{category.NumComplete}/{category.Total}");
+                    ImGui.TableNextColumn();
+                    ImGui.Text($"{category.NumComplete / category.Total:P2}%");
+                    ImGui.TableNextRow();
                 }
             }
 
@@ -169,7 +160,7 @@ namespace QuestTracker
                 {
                     foreach (var category in plugin.QuestData.Categories)
                     {
-                        if (!category.Hide)
+                        if (!category.Hide && (configuration.ExcludeOtherQuests ? category != plugin.QuestData.Categories.Last() : true))
                         {
                             if (ImGui.Selectable(GetDisplayText(category),
                                                  configuration.CategorySelection == category))
@@ -445,7 +436,7 @@ namespace QuestTracker
             ImGui.Spacing();
 
             var excludeOtherQuests = configuration.ExcludeOtherQuests;
-            if (ImGui.Checkbox("Exclude \'Other Quests\' from Overall", ref excludeOtherQuests))
+            if (ImGui.Checkbox("Exclude \'Other Quests\'", ref excludeOtherQuests))
             {
                 configuration.ExcludeOtherQuests = excludeOtherQuests;
                 configuration.Save();
