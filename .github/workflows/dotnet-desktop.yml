@@ -72,9 +72,10 @@ jobs:
 
     - name: Install Dalamud
       run: |
-        mkdir -p ~/.xlcore/dalamud/Hooks/${{ matrix.dalamud-branch }}
+        $dalamudPath = "$env:APPDATA\XIVLauncher\addon\Hooks\dev"
+        New-Item -ItemType Directory -Force -Path $dalamudPath | Out-Null
         curl -L https://goatcorp.github.io/dalamud-distrib/latest.zip -o dalamud.zip
-        unzip -o dalamud.zip -d ~/.xlcore/dalamud/Hooks/${{ matrix.dalamud-branch }}
+        Expand-Archive -Force -Path dalamud.zip -DestinationPath $dalamudPath
 
     - name: Restore
       run: dotnet restore
