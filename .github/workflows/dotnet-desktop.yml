@@ -88,5 +88,5 @@ jobs:
       with:
         name: plugin-build
         path: |
-          bin/Release/**/*.dll
-          bin/Release/**/*.json
+          D:\a\QuestTracker\QuestTracker\QuestTracker\bin\Release\QuestTracker.dll
+          D:\a\QuestTracker\QuestTracker\QuestTracker\bin\Release\QuestTracker.json
